@@ -1,4 +1,3 @@
-gcc -Wall -Werror -Wextra -pedantic -std=gnu89 5-printf.c
 #include <stdio.h>
 
 /**
@@ -9,7 +8,8 @@ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 5-printf.c
  *
  *    * Return: Always 0 (Success)
  *
- *     */
+ *    
+ */
 int main(void)
 
 {
