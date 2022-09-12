@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-i
-=======
 #include <stdio.h>
 
 /** 
@@ -9,8 +6,7 @@ i
 */
 
 int main(void)
-{		
+{	
 	puts("\"Programming is like building a multilingual puzzle");		
 	return (0);
 }	
->>>>>>> 96927fad9d2ac660c815c922594f53888fa47269
